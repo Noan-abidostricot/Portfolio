@@ -516,6 +516,7 @@
       display: block;
     }
     .navbar{
+      display: none;
       position : absolute;
       top : 100%;
       right : 0;
